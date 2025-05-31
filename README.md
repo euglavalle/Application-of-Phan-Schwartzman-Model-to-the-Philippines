@@ -1,4 +1,4 @@
-# Application-of-Phan-Schwartzman-Model-to-the-Philippines
+# Application-of-the-Phan-Schwartzman-Model-to-the-Philippines
 This repository contains the code used to apply the Phan-Schwartzman model to the Philippines.
 
 Most of the code used, is the original code developed by Toàn Phan and Felipe Schwartzman in their paper **Climate defaults and financial adaptation** (https://doi.org/10.1016/j.euroecorev.2024.104866). Only the adapted scripts are provided here. 
